@@ -1,8 +1,11 @@
 # gridappsd
 
 Step 1: Install Gridapps docker (https://gridappsd.readthedocs.io/en/master/installing_gridappsd/index.html)
+#
 Step 2: Run tester3.py - the different parts are commented accordingly
 I am getting an error on getting to the input API part.
+#
+
 The error is as follows:
 
 021-12-21 02:23:51,729 Thread-39 ERROR [gov.pnnl.goss.gridappsd.log.LogManagerImpl] - 1640053431729|helics_goss_bridge.py|789771196|ERROR|system|ERROR
